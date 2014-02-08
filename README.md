@@ -1,0 +1,4 @@
+QCloudinary
+===========
+
+Cloudinary® QCubed Plugin
